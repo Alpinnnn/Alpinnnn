@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alpinnnn
 - 👀 I’m interested in Backend
-- 🌱 I’m currently learning Data Analyst & Machine Learning
+- 🌱 I’m currently learning C#
 - 📫 My Website: alpinn.site/links
 - ⚡ Fun fact: Likes To Play Games
 
