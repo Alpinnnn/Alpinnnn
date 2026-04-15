@@ -42,7 +42,7 @@
 
 ###
 
-<div align="center">
+<div align="center" style="display: flex; gap: 10px; justify-content: center; width: 100%;">
   <a href="https://discordapp.com/users/742348519117160528" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
