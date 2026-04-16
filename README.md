@@ -6,7 +6,7 @@
 
 ###
 
-  <img src="[https://media1.tenor.com/m/TKaLVjpWD8IAAAAd/miyabi-hoshimi-miyabi.gif](https://d2fy7spvltzu3v.cloudfront.net/9wmgz%2Fpreview%2F77237240%2Fmain_full.png?response-content-disposition=inline%3Bfilename%3D%22main_full.png%22%3B&response-content-type=image%2Fpng&Expires=1776301002&Signature=gf1ZdgBlGz3YUj0LOEeA-gvVMAKz8eVgFcDFY9HQi1Fi-evwWJzlhx0Xua3-WjEhY0cRtc1CALlRa59cSyev-fggWFjqJPx8I~J5RlQiYTsVwj7MeGYlgWSW9TYN3PNl3G7LBMb2tlYZx5QD206YAU0YHJ0A0b53u0-BEjXno3jv5sz5xwhYYBkVpHHg~41Y4bfiH2npOqkAkmZgSicIVJTHOc7yU9M0Jr-TSUbYDZ71aFhNNra5LmVEgYdA4WGrBphpWgJT0p-uaJl4N1cIXzVuGxkfYheRrQf7lzArU-cRW2ZJ9FJ-xUL06XG7WXYQo9SdZ8ANVqbDPgeVNTDE8w__&Key-Pair-Id=APKAJT5WQLLEOADKLHBQ)" height="200"/>
+  <img src="https://d2fy7spvltzu3v.cloudfront.net/9wmgz%2Fpreview%2F77237240%2Fmain_full.png" height="200"/>
 
 ###
 
